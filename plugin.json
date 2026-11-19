@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ppt-master",
+  "version": "1.0.0",
+  "description": "AI-driven workflow for generating, editing, beautifying and exporting native PowerPoint presentations.",
+  "author": {
+    "name": "Jingxiang Zhou"
+  },
+  "repository": "https://github.com/jzhou232-create/perplexity-ppt-master",
+  "keywords": [
+    "ppt",
+    "pptx",
+    "powerpoint",
+    "presentation",
+    "slides"
+  ]
+}
